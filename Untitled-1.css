@@ -35,3 +35,9 @@
   top:100px;
   left: 700px;
 }
+
+var res = config('是否确认')
+document.write(res)
+
+var res2 = prompt('请输入一个数')
+document.write(res2)
