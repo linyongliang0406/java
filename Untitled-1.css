@@ -20,6 +20,8 @@
   left: 10px;
 }
 .CCC{
+  text-align: center;
+   background-color: aqua;
   width: 500px;
   height: 300px;
   border: 1px black solid;
@@ -28,6 +30,7 @@
 
 }
 .BBB{
+  text-align: center;
   width: 600px;
   height: 200px;
   border: 1px black solid;
@@ -36,8 +39,4 @@
   left: 700px;
 }
 
-var res = config('是否确认')
-document.write(res)
 
-var res2 = prompt('请输入一个数')
-document.write(res2)
